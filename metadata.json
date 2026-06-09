@@ -1,0 +1,6 @@
+{
+  "name": "Video Frame Extractor",
+  "description": "Upload a video, customize extraction settings, and export specific frames as images.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
